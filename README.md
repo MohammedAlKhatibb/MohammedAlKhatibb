@@ -22,8 +22,8 @@ Technical Skills:
 * 🤝  I'm open to collaborating on Any Front-end project
 * ⚡  And i also like pizza!
 
-<a href="https://www.github.com/ACT00M" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ACT00M?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+<a href="https://www.github.com/MohammedAlkhatibb" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MohammedAlkhatibb?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -39,4 +39,4 @@ src="https://img.shields.io/github/followers/ACT00M?logo=github&style=for-the-ba
 
 ### Badges
 
-<a href="https://github.com/ACT00M" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACT00M&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MohammedAlkhatibb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAlkhatibb&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
