@@ -6,15 +6,6 @@ IT Student
 
 About Me: Passionate and motivated IT student with a strong foundation in programming, networking, and system administration. Eager to apply theoretical knowledge to real-world challenges through internships, projects, and collaborative learning. Skilled in problem-solving, software development, and IT infrastructure management, with a keen interest in emerging technologies like AI, cybersecurity, and cloud computing.
 
-Technical Skills:
-
-✔ Programming: Python, JavaScript, php
-✔ Web Development: HTML, CSS
-✔ Databases: SQL, MySQL
-✔ Networking: Cisco CCNA Basics, TCP/IP
-✔ Operating Systems: Windows
-✔ Tools: Git, VMware
-
 * 🌍  I'm based in Syria/Homs
 * ✉️  You can contact me at [kingstars202@gmail.com](mailto:kingstars202@gmail.com)
 * 🧠  I'm learning Laravel And React
